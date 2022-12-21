@@ -1,0 +1,6 @@
+Customer_ID,Firstname,Lastname,Addresse,Status,Gender,Is_Frequent,Miles_Capacity,Reward_Per_Mile
+1,Hazem,Hafez,Cairo,Gold,Male,True,6000,1000
+2,Amr,Emad,Cairo,Platinum,Male,True,8000,3000
+3,Mai,Hassan,Giza,Aluminum,Female,True,10000,5000
+4,Mohamed,Ahmed,Alex,Titanium,Male,True,12000,7000
+5,Ahmed,Amir,Port Said,New,Male,False,0,0
